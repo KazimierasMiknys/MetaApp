@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MetaApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Weather --city"
+    }
+  }
+}
